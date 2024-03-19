@@ -13,6 +13,7 @@
             "id": "https://Ewww1125.github.io/Ewww/artwork-2.html",
             "url": "https://Ewww1125.github.io/Ewww/artwork-2.html",
             "title": "artwork-2",
+            "image": "https://Ewww1125.github.io/Ewww/media/posts/5/untitled.png",
             "author": {
                 "name": "jin"
             },
@@ -20,7 +21,7 @@
                    "artwork"
             ],
             "date_published": "2024-03-19T22:01:43+08:00",
-            "date_modified": "2024-03-19T22:03:30+08:00"
+            "date_modified": "2024-03-19T22:19:56+08:00"
         },
         {
             "id": "https://Ewww1125.github.io/Ewww/artwork-1.html",
@@ -53,7 +54,7 @@
             "url": "https://Ewww1125.github.io/Ewww/test-1.html",
             "title": "test-1",
             "summary": "哈囉!",
-            "content_html": "\n  <p>\n    哈囉!\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://Ewww1125.github.io/Ewww/media/posts/1/untitled00.png\" height=\"1080\" width=\"1920\" alt=\"\"  sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://Ewww1125.github.io/Ewww/media/posts/1/responsive/untitled00-xs.png 300w ,https://Ewww1125.github.io/Ewww/media/posts/1/responsive/untitled00-sm.png 480w ,https://Ewww1125.github.io/Ewww/media/posts/1/responsive/untitled00-md.png 768w ,https://Ewww1125.github.io/Ewww/media/posts/1/responsive/untitled00-lg.png 1024w\">\n      \n    </figure>",
+            "content_html": "\n  <p>\n    哈囉!\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://Ewww1125.github.io/Ewww/media/posts/1/untitled00.png\" height=\"1080\" width=\"1920\" alt=\"\"  sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://Ewww1125.github.io/Ewww/media/posts/1/responsive/untitled00-xs.png 300w ,https://Ewww1125.github.io/Ewww/media/posts/1/responsive/untitled00-sm.png 480w ,https://Ewww1125.github.io/Ewww/media/posts/1/responsive/untitled00-md.png 768w ,https://Ewww1125.github.io/Ewww/media/posts/1/responsive/untitled00-lg.png 1024w\">\n      \n    </figure>\n<div><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/UI0byDHkD24?si=hQ-THf5OUcbTpWDy\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe></div></div>\n\n  <p>\n    \n  </p>",
             "author": {
                 "name": "jin"
             },
@@ -61,7 +62,7 @@
                    "test"
             ],
             "date_published": "2024-03-19T21:12:58+08:00",
-            "date_modified": "2024-03-19T22:02:44+08:00"
+            "date_modified": "2024-03-19T22:17:26+08:00"
         }
     ]
 }

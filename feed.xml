@@ -3,7 +3,7 @@
     <title>Ewww</title>
     <link href="https://Ewww1125.github.io/Ewww/feed.xml" rel="self" />
     <link href="https://Ewww1125.github.io/Ewww" />
-    <updated>2024-03-19T22:03:30+08:00</updated>
+    <updated>2024-03-19T22:19:56+08:00</updated>
     <author>
         <name>jin</name>
     </author>
@@ -16,6 +16,7 @@
         </author>
         <link href="https://Ewww1125.github.io/Ewww/artwork-2.html"/>
         <id>https://Ewww1125.github.io/Ewww/artwork-2.html</id>
+        <media:content url="https://Ewww1125.github.io/Ewww/media/posts/5/untitled.png" medium="image" />
             <category term="artwork"/>
 
         <updated>2024-03-19T22:01:43+08:00</updated>
@@ -74,6 +75,11 @@
       <img loading="lazy" src="https://Ewww1125.github.io/Ewww/media/posts/1/untitled00.png" height="1080" width="1920" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://Ewww1125.github.io/Ewww/media/posts/1/responsive/untitled00-xs.png 300w ,https://Ewww1125.github.io/Ewww/media/posts/1/responsive/untitled00-sm.png 480w ,https://Ewww1125.github.io/Ewww/media/posts/1/responsive/untitled00-md.png 768w ,https://Ewww1125.github.io/Ewww/media/posts/1/responsive/untitled00-lg.png 1024w">
       
     </figure>
+<div><div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/UI0byDHkD24?si=hQ-THf5OUcbTpWDy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div></div>
+
+  <p>
+    
+  </p>
             ]]>
         </content>
     </entry>
