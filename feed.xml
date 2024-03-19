@@ -3,12 +3,63 @@
     <title>Ewww</title>
     <link href="https://Ewww1125.github.io/Ewww/feed.xml" rel="self" />
     <link href="https://Ewww1125.github.io/Ewww" />
-    <updated>2024-03-19T21:48:40+08:00</updated>
+    <updated>2024-03-19T22:03:30+08:00</updated>
     <author>
         <name>jin</name>
     </author>
     <id>https://Ewww1125.github.io/Ewww</id>
 
+    <entry>
+        <title>artwork-2</title>
+        <author>
+            <name>jin</name>
+        </author>
+        <link href="https://Ewww1125.github.io/Ewww/artwork-2.html"/>
+        <id>https://Ewww1125.github.io/Ewww/artwork-2.html</id>
+            <category term="artwork"/>
+
+        <updated>2024-03-19T22:01:43+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>artwork-1</title>
+        <author>
+            <name>jin</name>
+        </author>
+        <link href="https://Ewww1125.github.io/Ewww/artwork-1.html"/>
+        <id>https://Ewww1125.github.io/Ewww/artwork-1.html</id>
+            <category term="artwork"/>
+
+        <updated>2024-03-19T22:01:29+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>test-2</title>
+        <author>
+            <name>jin</name>
+        </author>
+        <link href="https://Ewww1125.github.io/Ewww/test-2.html"/>
+        <id>https://Ewww1125.github.io/Ewww/test-2.html</id>
+            <category term="test"/>
+
+        <updated>2024-03-19T22:00:56+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>CV</title>
+        <author>
+            <name>jin</name>
+        </author>
+        <link href="https://Ewww1125.github.io/Ewww/cv.html"/>
+        <id>https://Ewww1125.github.io/Ewww/cv.html</id>
+
+        <updated>2024-03-19T21:56:12+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>test-1</title>
         <author>
@@ -16,6 +67,7 @@
         </author>
         <link href="https://Ewww1125.github.io/Ewww/test-1.html"/>
         <id>https://Ewww1125.github.io/Ewww/test-1.html</id>
+            <category term="test"/>
 
         <updated>2024-03-19T21:12:58+08:00</updated>
             <summary>
